@@ -7,7 +7,7 @@
     <ProjectGuid>{B81B8B31-C3BA-4A8F-BCDE-AC33BA5852C5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>RemoteSignTool.Client</RootNamespace>
-    <AssemblyName>sgintool</AssemblyName>
+    <AssemblyName>signtool</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
